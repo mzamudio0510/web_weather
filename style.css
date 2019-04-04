@@ -1,0 +1,52 @@
+.logo {
+    font-weight: bold;
+    color: white;
+    background-color: rgb(3, 169, 172);
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+span {
+    font-weight: bold;
+    color: white;
+    font-size: 22px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+h2 {
+    color:rgb(3, 169, 172);
+    font-size: 27px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+h3 {
+    color:rgb(3, 169, 172);
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+p {
+    color:gray;
+    font-size: 15px;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    border:2px solid #fff;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {background-color: #f2f2f2;}
